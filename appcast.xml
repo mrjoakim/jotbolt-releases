@@ -3,6 +3,15 @@
     <channel>
         <title>Jotbolt</title>
         <item>
+            <title>Version 1.12.0</title>
+            <pubDate>Sat, 21 Nov 2026 10:54:15 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Updates come from a new address.<br>- Jotbolt now gets updates and downloads from a new place. Nothing else about how it works changes.<br>- New menu item "About Jotbolt" with version, copyright and third-party licenses.<br>- From this version Jotbolt is closed source. Versions up to 1.11 remain under GPLv3.</p><p>Jotbolt hämtar nu uppdateringar från en ny adress, och menyn har fått "Om Jotbolt" med version och licenser. Från den här versionen är Jotbolt stängd källkod; versionerna till och med 1.11 finns kvar under GPLv3.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-releases/releases/download/v1.12.0/Jotbolt.dmg" length="3276679" type="application/octet-stream" sparkle:edSignature="lgI34Z0xyp4tTKbLADq3tjA5tA2noJOoReSNarHcDAJ9NurT9J+gr3x0xGnZc3WVvsymKQIvXCYOzUK6TnqSCg=="/>
+        </item>
+        <item>
             <title>Version 1.11.0</title>
             <pubDate>Fri, 20 Nov 2026 22:02:23 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
