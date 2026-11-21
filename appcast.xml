@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Jotbolt</title>
+        <item>
+            <title>Version 1.11.0</title>
+            <pubDate>Fri, 20 Nov 2026 22:02:23 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Sets itself up from the template.<br>- When Jotbolt finds your databases the first time, Daily and Note use the database's default template, and Daily lines go under a "Notes" heading if the template has one.<br>- @ and # are set up too: @ uses the relation to your Projects database and # the field named Tags.<br>- Settings you have already chosen are never changed.</p><p>Jotbolt ställer nu in sig själv från mallen: första gången används databasens standardmall för Daily och Anteckning, Daily-raderna hamnar under rubriken "Notes" om mallen har en, och @ och # ställs in. Det du redan har valt ändras aldrig.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.11.0/Jotbolt.dmg" length="3271785" type="application/octet-stream" sparkle:edSignature="eDY23milMiBg7uz70lehHtH0p2Ali6J/GapF1IkoJrbm4IyK4GFHYsCMqXxhmN+D3W80exNTgbp50M6DXVBtBA=="/>
+        </item>
+        <item>
+            <title>Version 1.10.0</title>
+            <pubDate>Fri, 20 Nov 2026 17:15:03 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Support Jotbolt.<br>- Jotbolt is and stays free. If you'd like to help it keep improving, Settings › General now has a Support Jotbolt card that opens Ko-fi in your browser.<br>- Nothing in the app is locked, Jotbolt never asks, and it doesn't know whether you've supported it.</p><p>Jotbolt är gratis. Vill du bidra till att den utvecklas vidare finns nu kortet Stötta Jotbolt under Inställningar › Allmänt, som öppnar Ko-fi.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.10.0/Jotbolt.dmg" length="3247870" type="application/octet-stream" sparkle:edSignature="N+x67FIAijwGBwKKT2Y7wOfG/y85X4kYM/mP4KghO8jvEOM+0YGB88KptplQl2ZDhPTjNPnlvx+aUvW3+jwvCw=="/>
+        </item>
+        <item>
+            <title>Version 1.9.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:59:56 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>@projects and #tags while you type.<br>- In Task, type @ to pick a project and # to pick a tag. Suggestions appear as you type; choose with ↑↓ and Return or Tab. The project or tag shows under the field and is set on the task in Notion.<br>- Choose which fields they fill under Settings › Modes › Task › Projects (@) and Tags (#).<br>- A new tag can be created right from the list. Finished and archived projects are not suggested.<br>- Return still saves when no suggestion is showing, and ⌘Return always saves.</p><p>@projekt och #taggar medan du skriver: välj projekt och taggar direkt i Uppgift, så hamnar uppgiften rätt i Notion.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.9.0/Jotbolt.dmg" length="3233247" type="application/octet-stream" sparkle:edSignature="kwrTkkeNVjPuj/H2N+Bg7b+V0PtIAEBnJoIaYRn5FSh+DYithlz+f5dy3yfuafnM+sQasLdyUj8OvdozCfR3Cg=="/>
+        </item>
+        <item>
+            <title>Version 1.8.0</title>
+            <pubDate>Fri, 20 Nov 2026 14:18:27 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>One task per line.<br>- In Task, press Shift-Return for a new line, or paste a list. Each line becomes its own task in Notion when you press Return.<br>- List markers like "1.", "-", "•" and "[ ]" are removed, and blank lines are skipped. A date at the end of a line becomes that task's date.<br>- Under the field Jotbolt shows how many tasks will be saved. Up to 50 at a time.<br>- A single line works exactly as before.</p><p>En uppgift per rad: skriv eller klistra in en lista i Uppgift, så blir varje rad en egen uppgift i Notion.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.8.0/Jotbolt.dmg" length="3059784" type="application/octet-stream" sparkle:edSignature="X0lQPYAdQJdfujeVN6Xku0qeIMW9qA026OXqEQevbet6Nq4+9yVkebAbA/4MhGtRg/BFdsTyk4POIvospicpCw=="/>
+        </item>
+        <item>
+            <title>Version 1.7.0</title>
+            <pubDate>Fri, 20 Nov 2026 13:59:36 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Share to Jotbolt, and save quotes.<br>- Choose Share › Jotbolt in Safari, Chrome, Firefox and other apps. The capture window opens in Read later with the page's title and address filled in, so you can add a comment before you save.<br>- Select text, right-click and choose Services › Save to Jotbolt. The text becomes a quote on the Notion page. In a browser Jotbolt already has access to, the page's title and address are filled in too.<br>- Choose which value quotes get under Settings › Modes › Read later. Databases made by Create databases for me get a "Quote" value.<br>- Nothing is saved until you save, and sharing never asks for permission.</p><p>Dela till Jotbolt från andra appar, även Firefox, och spara markerad text som citat i Läs senare.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.7.0/Jotbolt.dmg" length="3042298" type="application/octet-stream" sparkle:edSignature="7tm4kBM1l3hILyI4n9c34SZFphm1pQiSgieEcdTfszQm4liC4lZ/Ipu28uIH6kqJLUa2xw5onTt7zp6eOQ7lDA=="/>
+        </item>
+        <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Fri, 20 Nov 2026 11:37:37 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>One text that follows you, and sign-in with Notion only.<br>- The capture window has one text for every mode. Start typing a task, switch to Note, and the text comes along. It stays when you close the window and is cleared when it is saved.<br>- Long tasks wrap and the field grows, like a note.<br>- Sign in with Notion is now the only way to connect. The option to paste your own integration key is gone, and a saved key is removed from your Keychain.<br>- Fixed: a mail subject is no longer read as a date after you remove the mail link. "Saved to Notion" shows the date words when the date couldn't be set. Choosing "None" as the task's date field always sticks.</p><p>En enda text som följer med mellan lägena, långa uppgifter som radbryts, och inloggning med Notion som enda sätt att ansluta.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.6.0/Jotbolt.dmg" length="2898660" type="application/octet-stream" sparkle:edSignature="2LuQNJYol+4jqKHZapyb7DWNwqujv75uJ0YjPUu+qutPo33T62s2frtayzuyAMmfkBvwtSVGZRzicI8yb1rsCA=="/>
+        </item>
+        <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Fri, 20 Nov 2026 10:30:29 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Sign in with Notion, and choose which pages Jotbolt can see.<br>- Settings › Notion has a new "Sign in with Notion" button. Notion opens in your browser, you pick the workspace and pages, and you come back to Jotbolt.<br>- After you sign in, Settings checks that Jotbolt reaches the database for every mode and says so, or names the mode whose database it can't see.<br>- "Choose pages in Notion…" lets you add more pages later. "Sign out" removes the sign-in from your Mac.<br>- The sign-in renews itself. If Notion refuses the renewal, the queue pauses and Jotbolt asks you to sign in again.<br>- Your own integration key still works under "Use your own integration key". Existing setups are unchanged.</p><p>Du kan nu logga in med Notion under Inställningar › Notion och välja vilka sidor Jotbolt ska se, utan att skapa en egen integration. Din egen nyckel fungerar som förut, och befintliga inställningar ändras inte.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.5.0/Jotbolt.dmg" length="2955357" type="application/octet-stream" sparkle:edSignature="+6jidfyBrhnMNHMHFRG0V9G3C5KuCODqAIHAd9t43TiyaDCIhZMngfcW3pn7vyCA0HFq27AoJZp5oLq8huE6DQ=="/>
+        </item>
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Fri, 20 Nov 2026 06:38:35 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Dates in plain words, and a confirmation when something is saved.<br>- Write a date at the end of a task, in Swedish or English: "Ring Anna fre", "Call Anna tomorrow", "Boka 24 dec kl 15". It becomes the task's date in Notion and shows as a chip you can remove with ✕ or ⌘⇧⌫.<br>- Choose your date field under Settings › Modes › Task › Date field (databases made by Create databases for me are set up for you). "None" turns dates off.<br>- A "Saved to Notion" notification appears after each save and opens the page when clicked (Daily opens today's page). Several items sent together give one summary. Turn it off in Settings › General.<br>- A Gmail subject you have not changed is never read as a date.</p><p>Datum med vanliga ord sist i en uppgift ("Ring Anna fre", "imorgon", "24 dec kl 15") blir uppgiftens datum i Notion, och efter varje sparning visas en notis som öppnar sidan.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.4.0/Jotbolt.dmg" length="2952002" type="application/octet-stream" sparkle:edSignature="035nTpeb3G2Sw4Mfm4IHWrEHE5Y9UmHhDt7LTcM5SQfC1lhnZ9gL6DvKL6+zAa3sYc4bsozdd9dW+1nWna4HAA=="/>
+        </item>
+        <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Fri, 20 Nov 2026 05:55:06 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Get started in a minute.<br>- New to Notion databases? Settings › Modes › Get started › Create databases for me… creates a "Jotbolt" page with four databases (Tasks, Daily, Notes, Read later) in a page you pick, and sets up every mode.<br>- Already have Jotbolt's databases from another Mac? Jotbolt recognises them on first setup and sets itself up.<br>- Modes you have already set up are never changed.</p><p>Kom igång på en minut: Inställningar › Lägen › Kom igång › Skapa databaser åt mig… skapar fyra databaser i en sida du väljer och ställer in alla lägen.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.3.0/Jotbolt.dmg" length="2850994" type="application/octet-stream" sparkle:edSignature="FcVPLsX1vOHTDo0YqzcdP5oM1BA+EMUvwEcg4p2n/PoD7/s8pExKiihuhxdhEjwQSQX9am236ES0LKktI3mgAg=="/>
+        </item>
+        <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Thu, 19 Nov 2026 20:49:07 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Turn a mail into a task.<br>- With a Gmail message open in Safari, Chrome, Arc, Brave or Edge, the Task mode fills in the subject (selected, so you can type your own) and attaches the mail. The task in Notion gets Gmail's icon and a bookmark back to the mail.<br>- Remove the link with ✕ or ⌘⌫. Turn it off under Settings › Modes › Task.<br>- Gmail pages saved with Read later get a clean title (without your e-mail address) and Gmail's icon. Jotbolt fetches nothing from Gmail.<br>- Browser access now has its own section: Settings › Modes › Browsers.<br>- Fixed: a missing date field in Daily is shown once.</p><p>Gör ett mail till en uppgift: med ett Gmail-mail öppet fyller läget Uppgift i ämnet och kopplar mailet, och uppgiften i Notion får Gmails ikon och en länk tillbaka till mailet.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.2.0/Jotbolt.dmg" length="2662547" type="application/octet-stream" sparkle:edSignature="+qXEqIQ3MPfd7LehYzvr17jXoJb2ovNcUghcsjlkaX9mKxqJQsm83L5zhl6holsAQkGWSZL0/dkZURlclTHLDA=="/>
+        </item>
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Thu, 19 Nov 2026 15:15:17 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>New mode: Read later.<br>- Press the shortcut while you're in Safari, Chrome, Arc, Brave or Edge, and the title and address of the active tab are already filled in. Press Return to save it to your read-later database in Notion.<br>- The page gets the link as a bookmark and the site's own icon.<br>- The type is set automatically: YouTube links get one value, everything else another. You choose both in Settings › Modes › Read later.<br>- Give Jotbolt access to each browser once under Settings › Modes › Read later › Allow access.<br>- "Copy text" on a stuck capture now includes the title and address.</p><p>Nytt läge: Läs senare. Tryck på kortkommandot i Safari, Chrome, Arc, Brave eller Edge så är flikens titel och adress redan ifyllda – ⏎ sparar till din läslista i Notion som ett bokmärke med sajtens ikon, med typen satt automatiskt (YouTube eller övrigt).</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.1.0/Jotbolt.dmg" length="2611982" type="application/octet-stream" sparkle:edSignature="V+FCgFZNASf8slcl/vBadRPApN2ALm0Ftyuhyz41oN561fsbG6ee2Zvcni0NwV5Btw72u1ewuE8R9L+9NPb9Dw=="/>
+        </item>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Thu, 19 Nov 2026 10:44:29 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>First public release of Jotbolt.</p><p>- Capture a task, a line on today's daily page, or a note into your own Notion databases with ⌃⌥Space, without opening Notion.<br>- Choose your databases and templates in Settings.<br>- Nothing is lost offline: captures wait in a local queue and are sent when you're back online.<br>- English and Swedish.<br>- Automatic updates.</p><p>Första publika versionen av Jotbolt: fånga uppgifter, dagsanteckningar och anteckningar till dina egna Notion-databaser med ⌃⌥Space.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-macos/releases/download/v1.0.0/Jotbolt.dmg" length="2358735" type="application/octet-stream" sparkle:edSignature="MU2wod65jGJICwCF+kzR03fvp0Dut6wWJ6rMVv/xqYbttVDYr2RqIeyDML7PG1sK6Cvi3b1bCDTHKfovdonSCg=="/>
+        </item>
+    </channel>
+</rss>
