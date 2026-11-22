@@ -3,6 +3,15 @@
     <channel>
         <title>Jotbolt</title>
         <item>
+            <title>Version 1.13.1</title>
+            <pubDate>Sun, 22 Nov 2026 16:01:12 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>A new app icon.<br>- Jotbolt has a new icon: a lightning bolt that is also a pencil, white on black.<br>- Nothing else changes.</p><p>Jotbolt har fått en ny ikon: en blixt som också är en penna, vit på svart. Inget annat ändras.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-releases/releases/download/v1.13.1/Jotbolt.dmg" length="3385843" type="application/octet-stream" sparkle:edSignature="9qoRqLirA0V7YlLnfhN6yv28SoU5TNvbvsGH+A/0kxU3ujuBpMhxoF1VNgbzrAkLQkn2JSuoCHaby59U61P7Dw=="/>
+        </item>
+        <item>
             <title>Version 1.13.0</title>
             <pubDate>Sun, 22 Nov 2026 15:10:16 +0000</pubDate>
             <sparkle:version>14</sparkle:version>
