@@ -3,6 +3,15 @@
     <channel>
         <title>Jotbolt</title>
         <item>
+            <title>Version 1.13.0</title>
+            <pubDate>Sun, 22 Nov 2026 15:10:16 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Search for a database.<br>- The Database choice under Modes now opens a box with a search field, so you can find the right database even when Notion shares many with Jotbolt.<br>- Named databases come first. Untitled ones come last, each with its first columns, so you can tell them apart.</p><p>Databasvalet under Lägen har nu ett sökfält. Databaser med namn kommer först, och de utan titel ligger sist med sina första kolumner så att du kan skilja dem åt.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-releases/releases/download/v1.13.0/Jotbolt.dmg" length="3392891" type="application/octet-stream" sparkle:edSignature="jzaCR447A9ZJHnuvdzwYWPU88G5+Lv1sb6rJtapkZUGxp3gQ4bt3LnptViy6fEC07zY0GXXfs+j0EZIHzpE4AQ=="/>
+        </item>
+        <item>
             <title>Version 1.12.0</title>
             <pubDate>Sat, 21 Nov 2026 10:54:15 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
