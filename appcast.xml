@@ -3,6 +3,15 @@
     <channel>
         <title>Jotbolt</title>
         <item>
+            <title>Version 1.14.0</title>
+            <pubDate>Sun, 22 Nov 2026 18:35:40 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Turn a mail in Apple Mail into a task.<br>- Select a message in Mail and press the shortcut: the Task mode fills in the subject and links the message. The task in Notion gets a ✉️ icon and a line "✉️ Open in Mail: subject" that opens the message in Mail, on your Mac and on your iPhone.<br>- Gmail-linked tasks now get the same kind of line, "✉️ Open in Gmail: subject", instead of a bookmark that only showed the address.<br>- Jotbolt reads only the subject and the message id of the one selected message, and only when Mail is in front. Nothing is filled in when several messages are selected.<br>- Remove the link with ✕ or ⌘⌫. The same setting as for Gmail turns it off: Settings › Modes › Task.<br>- Give Jotbolt access to Mail once under Settings › Modes › Browsers and Mail.</p><p>Gör ett mail i Mail till en uppgift: markera mailet och tryck på kortkommandot, så fyller läget Uppgift i ämnet och kopplar mailet. Uppgiften i Notion får en rad som öppnar mailet i Mail på Macen och iPhonen.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-releases/releases/download/v1.14.0/Jotbolt.dmg" length="3409973" type="application/octet-stream" sparkle:edSignature="Ktg1eEcLO7PDqrs3Qw+542450oxpAXti+TZ5fsgr7cRaIWc0c3aCZavepjyW7Z0pI3Dl7HvpodpJUcgrlwzzAA=="/>
+        </item>
+        <item>
             <title>Version 1.13.1</title>
             <pubDate>Sun, 22 Nov 2026 16:01:12 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
