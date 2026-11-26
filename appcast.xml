@@ -3,6 +3,15 @@
     <channel>
         <title>Jotbolt</title>
         <item>
+            <title>Version 1.15.0</title>
+            <pubDate>Thu, 26 Nov 2026 06:13:11 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Save a mail in Apple Mail to Read later, with its text if you like.<br>- Select a message in Mail and press the shortcut: Read later fills in the subject as the title and a link that opens the message in Mail. The page in Notion gets a ✉️ icon.<br>- New setting, off from the start: Settings › Modes › Read later › Save the mail's text. With it on, the page also gets the sender and date and the mail's text, one paragraph per paragraph, without the quoted replies of earlier mails in the thread. A forwarded mail is kept whole.<br>- The panel shows "The mail's text is saved with the page"; ✕ saves the link only.<br>- Jotbolt reads the sender, date and text only with the setting on, only for the one selected message and only when Mail is in front. Recipients are never read.<br>- Give Jotbolt access to Mail once under Settings › Modes › Browsers and Mail.</p><p>Spara ett mail i Mail till Läs senare, med mailets text om du vill: markera mailet och tryck på kortkommandot, så fyller Läs senare i ämnet och en länk som öppnar mailet i Mail. Med Spara mailets text påslaget (Inställningar › Lägen › Läs senare) får sidan i Notion också avsändare, datum och mailets text, utan citerade svar.</p>]]></description>
+            <enclosure url="https://github.com/mrjoakim/jotbolt-releases/releases/download/v1.15.0/Jotbolt.dmg" length="3457166" type="application/octet-stream" sparkle:edSignature="PC1RbEOsDLjkOTMQH7iJzngeHOGpbXUF0HFHTfRfK0vFemL8Qf0bRwYlz9vEpT5iF/EX8Bvw20ZT2ayzu7WGAQ=="/>
+        </item>
+        <item>
             <title>Version 1.14.0</title>
             <pubDate>Sun, 22 Nov 2026 18:35:40 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
